@@ -18,7 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+ball1,ball2=input(),input()
+temp=ball1
+ball1=ball2
+ball2=temp
+print("Swapped values are:",ball1,ball2)
 
+```
+### output
 
 
 ## RESULT:
