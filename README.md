@@ -27,6 +27,7 @@ print("Swapped values are:",ball1,ball2)
 
 ```
 ### output
+![Screenshot from 2022-12-26 18-24-53](https://user-images.githubusercontent.com/118344695/209551715-dc300aad-c3e0-46d0-94d3-927c2cadf1eb.png)
 
 
 ## RESULT:
